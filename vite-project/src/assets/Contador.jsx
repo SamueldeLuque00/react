@@ -3,7 +3,7 @@ import { Fragment } from "react"
 
 export const Contador=()=>{
 
-    const [valor, setValor]=useState("")
+    const [valor, setValor]=useState("0")
 
     // const sumar =()=>{setValor(valor+1)}
     // const restar=()=>{setValor(valor-1)}
